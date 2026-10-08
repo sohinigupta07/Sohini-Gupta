@@ -1,0 +1,6 @@
+spacy
+nltk
+pandas
+
+# Install the English model once:
+# python -m spacy download en_core_web_sm
